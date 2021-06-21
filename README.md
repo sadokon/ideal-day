@@ -1,7 +1,7 @@
 # ideal-day
-####Daily tasks
+#### Daily tasks
 
 A intern TD(Technical Director)
 
-- []python
-- []maya
+- [] python
+- [] maya
